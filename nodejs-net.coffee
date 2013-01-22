@@ -1,6 +1,6 @@
 # This is a clone of node.js's net.Socket API made to work using Chrome's TCP
 # socket API.
-# [http://nodejs.org/api/net.html]
+# [http://nodejs.org/api/net.html] test
 
 exports = window.net = {}
 
